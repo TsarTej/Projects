@@ -40,7 +40,7 @@ function App() {
     <div>
 
      {/* HEADING PASSWORD GENERATOR  */}
-     <h1 className="fixed flex text-3xl rounded-xl px-5 py-5 top-10 left-120" style={{backgroundColor: "yellow"}} >Passwork Generator</h1>
+     <h1 className="fixed flex text-3xl rounded-xl px-5 py-5 top-10 left-120" style={{backgroundColor: "yellow"}} >Password Generator</h1>
 
      {/* Grey Box  */}
     <div className="fixed flex bg-gray-400 px-35 py-20 left-98 top-48 rounded-2xl " >
